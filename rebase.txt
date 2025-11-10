@@ -2,3 +2,7 @@ hi
 welcome to rebase concept
 hppy learning
 thank you
+-------------------------------------------
+hi
+try understanding rebase practically
+have a nice day

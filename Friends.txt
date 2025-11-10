@@ -3,3 +3,7 @@ Suma's friends:
 Hari
 Keerthi
 Shaili
+Shaili's friend list:
+Suma
+Nikhil
+Hameed
